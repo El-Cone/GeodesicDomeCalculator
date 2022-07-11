@@ -1,0 +1,84 @@
+(function($){
+	function prettyDate(time){
+		var date = new Date((time || "").replace(/-/g,"/").replace(/[TZ]/g," ")),
+			diff = (((new Date()).getTime() - date.getTime()) / 1000),
+			day_diff = Math.floor(diff / 86400);
+				
+		if ( isNaN(day_diff) || day_diff < 0 || day_diff >= 31 )
+			return;
+				
+		return day_diff == 0 && (
+				diff < 60 && "just now" ||
+				diff < 120 && "1 minute ago" ||
+				diff < 3600 && Math.floor( diff / 60 ) + " minutes ago" ||
+				diff < 7200 && "1 hour ago" ||
+				diff < 86400 && Math.floor( diff / 3600 ) + " hours ago") ||
+			day_diff == 1 && "Yesterday" ||
+			day_diff < 7 && day_diff + " days ago" ||
+			day_diff < 31 && Math.ceil( day_diff / 7 ) + " weeks ago";
+	}
+
+	if ( typeof jQuery != "undefined" )
+	jQuery.fn.prettyDate = function(){
+		return this.each(function(){
+			var date = prettyDate(this.title);
+			if ( date )
+				jQuery(this).text( date );
+		});
+	};
+	$.expr[':'].ext = function(obj){
+		var left = function(s,n) {
+			return s.substring(0, n);
+		}
+		return obj.href != undefined && obj.href != "" && !obj.href.match(/^mailto\:/) && (obj.hostname != location.hostname) && (left(obj.href,10)!="javascript") && (left(obj.href,1)!="#");
+	};
+	$(function() {
+		var _links = [], _parms = [],_click=null;
+		$('.saq-time').each(function(){
+			$(this).html(prettyDate($(this).html()));
+		});
+
+							_click = function(){
+						;
+						var _href=
+						$.ajax({							type: 'POST',
+							url: 'http://www.domerama.com/wp-content/plugins/wp-click-info/wp-click-info.js.php?ver=1.26_checkbox',
+							data: { 'saqtrc': "1", 'target':$(this).data('href') },
+							error:function(d,a,f){
+								alert('WP Click Info: Error while tracking URL.\n'+a+'\n'+d.responseText);
+							},
+							dataType:'text'
+						});
+						$(this).attr('href',$(this).data('href'));
+						return true;
+					} ;
+				 
+		$('a:ext').attr('target','_blank').each(function(i,n){
+			_links[$(this).attr('href')] = $(this); 
+			_parms.push($(this).attr('href'));
+			if ($(this).children('img:first').length!=0) $(this).removeClass('saq-external-link-ico');
+			$(this).data('href',$(this).attr('href'));
+		}); //.click(_click)
+		//$("a.offsite").live("click", function(){ alert("Goodbye!"); });                // jQuery 1.3+
+		if ($.fn.on) {
+			$(document).on("click", "a:ext:not('.igno')", _click);        // jQuery 1.7+
+		} else {
+			if ($.fn.delegate) $(document).delegate("a:ext:not('.igno')", "click", _click);  // jQuery 1.4.3+
+		} 
+		
+				$.ajax({
+			async:true, 
+			type: 'POST',
+			url: 'http://www.domerama.com/wp-content/plugins/wp-click-info/nfo.js.php?ver=1.26',
+			data: { 'urls':_parms.join('^') }, 
+			success:function(d){
+				$(d).each(function(i,n){  
+					var _item=$('a:ext[href="'+n.URL+'"]'),_title=_item.attr('title');  
+					_title=(_title ? _title + ' - ' : '');
+					
+					_item.attr('title', _title + ' ('+n.CLICKS+' clicks. Last was ' + prettyDate(n.DT) + ')'); 
+				});  
+			}
+		}); 
+			});
+})(jQuery);

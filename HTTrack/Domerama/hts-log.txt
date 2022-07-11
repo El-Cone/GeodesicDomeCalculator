@@ -1,0 +1,500 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Jul 2022 18:25:11 at http://www.domerama.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.domerama.com/ -O1 "C:\Users\ElCone\source\repos\GeodesicDomeCalculator\HTTrack\Domerama" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:02:43	Warning: 	Moved Permanently for www.domerama.com/fabricating/the-bubble-dome-story-shambhala-2012/
+19:02:43	Warning: 	File has moved from www.domerama.com/fabricating/the-bubble-dome-story-shambhala-2012/ to http://www.domerama.com/fabricating/diy-projects/the-bubble-dome-story-shambhala-2012/
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/Au_Gftat3r4/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/5wwAsfyBk_Q/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/3rWnBC21XoI/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/Yod6zLvWN7w/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/mOaz0Z6LfAw/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/esWTjNk_NQQ/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/Ff6KEOMo15g/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/rvnCt1srNyg/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/DwMVpqWVIG8/0.jpg (from www.domerama.com/general/videos/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/tLdK7p7nAB4/0.jpg (from www.domerama.com/general/what-is-the-eden-project/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/pO44zejAXcI/0.jpg (from www.domerama.com/general/what-is-the-eden-project/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/4Kb7K2u2YW8/0.jpg (from www.domerama.com/general/what-is-the-eden-project/)
+20:24:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/eoaxStKTYzM/0.jpg (from www.domerama.com/general/what-is-the-eden-project/)
+20:43:41	Warning: 	Moved Permanently for www.domerama.com/free-plans/
+20:43:41	Warning: 	File has moved from www.domerama.com/free-plans/ to http://freeplans.domerama.com/
+20:48:54	Warning: 	Retry after error -4 (Incorrect length (539325 Bytes, 631145 expected)) at link www.domerama.com/wp-content/gallery/atlantic-2/atlantic_014.jpg (from www.domerama.com/types-of-domes/glass-geodesic-domes/)
+21:42:19	Warning: 	Retry after error -4 (Incorrect length (288983 Bytes, 554100 expected)) at link www.domerama.com/wp-content/uploads/2012/01/Build_your_own_yurt.pdf (from www.domerama.com/types-of-domes/yurts/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_33.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/3v_59_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_20.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_75.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_24.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_115.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_30.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_170.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/4v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_36.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_250.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_44.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_325.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/6v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_60.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_90.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:44	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_120.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+21:48:52	Error: 	"Not Found" (404) at link i.ytimg.com/vi/4dZVIBhKqWc/0.jpg (from www.domerama.com/raising-a-dome/bear-creek-geodesic-dome-construction/)
+21:56:11	Error: 	"Not Found" (404) at link i.ytimg.com/vi/PCMGYG6DrIk/0.jpg (from www.domerama.com/fabricating/making-the-struts/)
+21:56:11	Error: 	"Not Found" (404) at link paulbourke.net/exhibition/domeinstall/kuching2.jpg (from www.domerama.com/software/dome-projection-software/)
+21:56:41	Error: 	"Gone" (410) at link https://farm1.static.flickr.com/45/114224540_4e02b652a7_b.jpg (from www.domerama.com/software/sketchup-yurt-models/)
+22:00:04	Warning: 	Moved Permanently for www.domerama.com/?p=13793
+22:00:04	Warning: 	File has moved from www.domerama.com/?p=13793 to http://www.domerama.com/snowflake-geodesic-dome-for-the-holidays/
+22:00:04	Warning: 	Moved Permanently for www.domerama.com/?p=13767
+22:00:04	Warning: 	File has moved from www.domerama.com/?p=13767 to http://www.domerama.com/the-tactile-dome-reopens-on-october-30-2013/
+22:00:04	Warning: 	Moved Permanently for www.domerama.com/?p=13754
+22:00:04	Warning: 	File has moved from www.domerama.com/?p=13754 to http://www.domerama.com/burning-man-2013-is-here-and-on-webcast/
+22:00:04	Warning: 	Moved Permanently for www.domerama.com/?p=13739
+22:00:04	Warning: 	File has moved from www.domerama.com/?p=13739 to http://www.domerama.com/new-pentakis-greenhouse-dome-plan-available/
+22:00:07	Warning: 	Moved Permanently for www.domerama.com/?p=13679
+22:00:07	Warning: 	File has moved from www.domerama.com/?p=13679 to http://www.domerama.com/geodesic-domes-and-covers/
+22:05:56	Warning: 	Retry after error -4 (Incorrect length (257013 Bytes, 493137 expected)) at link www.domerama.com/wp-content/gallery/torrey/08-before-waterjet.jpg (from www.domerama.com/page/2/)
+22:05:59	Warning: 	Retry after error -4 (Incorrect length (280537 Bytes, 440200 expected)) at link www.domerama.com/wp-content/gallery/torrey/14-first-vertex-assembly-test.jpg (from www.domerama.com/page/2/)
+22:06:53	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/calculators/4v-geodesic-dome-calculator/4v-assembly-diagram/feed/ (from www.domerama.com/calculators/4v-geodesic-dome-calculator/4v-assembly-diagram/)
+22:06:54	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/calculators/5v-geodesic-dome-calculator/5v-38-assembly-diagram/ (from www.domerama.com/calculators/4v-geodesic-dome-calculator/4v-assembly-diagram/)
+22:06:54	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/calculators/5v-geodesic-dome-calculator/5v-38-geodesic-dome-calculator/feed/ (from www.domerama.com/calculators/5v-geodesic-dome-calculator/5v-38-geodesic-dome-calculator/)
+22:06:55	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/calculators/5v-geodesic-dome-calculator/5v-58-assembly-diagram/feed/ (from www.domerama.com/calculators/5v-geodesic-dome-calculator/5v-58-assembly-diagram/)
+22:06:55	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/calculators/6v-geodesic-dome-calculator/6v-assembly-diagram/feed/ (from www.domerama.com/calculators/6v-geodesic-dome-calculator/6v-assembly-diagram/)
+22:06:57	Warning: 	Retry after error -4 (Incorrect length (276889 Bytes, 500263 expected)) at link www.domerama.com/wp-content/uploads/2012/10/floret_tesselation_paper_model.jpg (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:06:57	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/nggallery/slideshow/ (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:06:57	Warning: 	Retry after error -4 (Incorrect length (281028 Bytes, 490607 expected)) at link www.domerama.com/wp-content/gallery/floret-mid-assembly/floret_mid_assembly_1.jpg (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:06:57	Warning: 	Retry after error -4 (Incorrect length (274953 Bytes, 434927 expected)) at link www.domerama.com/wp-content/gallery/floret-mid-assembly/floret_mid_assembly_3.jpg (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:07:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.domerama.com/wp-content/gallery/floret-mid-assembly/floret_mid_assembly_4.jpg (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:07:24	Warning: 	Retry after error -4 (Incorrect length (274972 Bytes, 422194 expected)) at link www.domerama.com/wp-content/uploads/2012/10/10-foot_3v_59_cover_calculations.pdf (from www.domerama.com/calculators/cover-templates-for-3v-59-geodesic-dome/cover-template-for-a-10-foot-3v-59-geodesic-dome/)
+22:07:31	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/types-of-domes/yurts/yurt-khana-or-lattice-wall-assembly/ (from www.domerama.com/dome-basics/geodesic-dome-hub-connectors/domedimensions-geodesic-hubs/)
+22:07:31	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/dome-basics/geodesic-dome-hub-connectors/domedimensions-geodesic-hubs/nggallery/slideshow/ (from www.domerama.com/dome-basics/geodesic-dome-hub-connectors/domedimensions-geodesic-hubs/)
+22:07:33	Warning: 	Retry after error -4 (Incorrect length (273748 Bytes, 528212 expected)) at link www.domerama.com/wp-content/gallery/dome-dimensions/ali.jpg (from www.domerama.com/dome-basics/geodesic-dome-hub-connectors/domedimensions-geodesic-hubs/)
+22:07:36	Warning: 	Retry after error -4 (Incorrect length (279151 Bytes, 502549 expected)) at link www.domerama.com/wp-content/gallery/dome-dimensions/112-1239_img.jpg (from www.domerama.com/dome-basics/geodesic-dome-hub-connectors/domedimensions-geodesic-hubs/)
+22:07:46	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/dome-basics/geodesic-dome-hub-connectors/andrei-saveliev-hub-system/nggallery/slideshow/ (from www.domerama.com/dome-basics/geodesic-dome-hub-connectors/andrei-saveliev-hub-system/)
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/epcot/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/epcot/ to http://www.domerama.com/general/images/epcot/
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/eden-project/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/eden-project/ to http://www.domerama.com/general/images/eden-project/
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/climatron/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/climatron/ to http://www.domerama.com/general/images/climatron/
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/cinerama/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/cinerama/ to http://www.domerama.com/general/images/cinerama/
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/pacific-domes/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/pacific-domes/ to http://www.domerama.com/general/images/pacific-domes/
+22:07:47	Warning: 	Moved Permanently for www.domerama.com/image-collections/science-world/
+22:07:47	Warning: 	File has moved from www.domerama.com/image-collections/science-world/ to http://www.domerama.com/general/images/science-world/
+22:07:47	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/image-collections/expo-67/ (from www.domerama.com/general/images/expo-67/)
+22:07:49	Warning: 	Moved Permanently for www.domerama.com/burning-man/
+22:07:49	Warning: 	File has moved from www.domerama.com/burning-man/ to http://www.domerama.com/general/images/burning-man/
+22:07:50	Warning: 	Retry after error -4 (Incorrect length (536744 Bytes, 671600 expected)) at link www.domerama.com/wp-content/gallery/expo-67/biosphere_montreal.jpg (from www.domerama.com/general/images/expo-67/)
+22:07:54	Error: 	"Not Found" (404) at link www.domerama.com/wp-content/gallery/expo-67/montreal.JPG (from www.domerama.com/general/images/expo-67/)
+22:07:54	Error: 	"Not Found" (404) at link www.domerama.com/wp-content/gallery/expo-67/thumbs/thumbs_montreal.JPG (from www.domerama.com/general/images/expo-67/)
+22:07:59	Warning: 	Retry after error -4 (Incorrect length (5255458 Bytes, 5468569 expected)) at link www.domerama.com/wp-content/uploads/2012/08/idome_400.mov (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:09	Warning: 	Retry after error -4 (Incorrect length (8671072 Bytes, 8747541 expected)) at link www.domerama.com/wp-content/uploads/2012/08/idome_640.mov (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:10	Warning: 	Retry after error -4 (Incorrect length (1282737 Bytes, 1576768 expected)) at link www.domerama.com/wp-content/uploads/2012/08/idome_400b.mov (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:11	Error: 	"Not Found" (404) at link paulbourke.net/miscellaneous/domemirror/UnityiDome/still6.jpg (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:11	Error: 	"Not Found" (404) at link paulbourke.net/miscellaneous/domemirror/UnityiDome/still8.jpg (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:11	Error: 	"Not Found" (404) at link paulbourke.net/miscellaneous/domemirror/UnityiDome/stfm3.jpg (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:11	Error: 	"Not Found" (404) at link paulbourke.net/miscellaneous/domemirror/UnityiDome/stfm4.jpg (from www.domerama.com/general/geodesic-dome-projection/unity-and-the-idome/)
+22:08:15	Warning: 	Retry after error -4 (No data (connection closed)) at link www.domerama.com/wp-content/gallery/vancouver-science-world/Science_World_Sunset.jpg (from www.domerama.com/general/images/science-world/)
+22:08:25	Warning: 	Retry after error -4 (Incorrect length (275018 Bytes, 582693 expected)) at link www.domerama.com/wp-content/gallery/bm-2007_1/burning_man_aerial_large.jpg (from www.domerama.com/general/images/burning-man/)
+22:08:35	Warning: 	Retry after error -4 (No data (connection closed)) at link www.domerama.com/wp-content/gallery/eden-project/Eden_Project_geodesic_domes_panorama.jpg (from www.domerama.com/general/images/eden-project/)
+22:08:44	Warning: 	Retry after error -4 (Incorrect length (748382 Bytes, 1055862 expected)) at link www.domerama.com/wp-content/gallery/cinerama/arclight.jpg (from www.domerama.com/general/images/cinerama/)
+22:08:52	Warning: 	Retry after error -4 (Incorrect length (269811 Bytes, 406609 expected)) at link www.domerama.com/wp-content/gallery/yurts-general/disassembled_yurt_in_tos_bulak.jpg (from www.domerama.com/general/images/yurts/)
+22:08:55	Warning: 	Retry after error -4 (Incorrect length (274919 Bytes, 405423 expected)) at link www.domerama.com/wp-content/gallery/yurts-general/karakul-yurt-d01.jpg (from www.domerama.com/general/images/yurts/)
+22:09:12	Warning: 	Retry after error -4 (Incorrect length (275367 Bytes, 421213 expected)) at link www.domerama.com/wp-content/gallery/yurts-general/three-level_yurta.jpg (from www.domerama.com/general/images/yurts/)
+22:09:15	Warning: 	Retry after error -4 (Incorrect length (277453 Bytes, 388200 expected)) at link www.domerama.com/wp-content/gallery/yurts-general/large_wooden_yurt_ring-816-x-612.jpg (from www.domerama.com/general/images/yurts/)
+22:09:16	Warning: 	Retry after error -4 (Incorrect length (541736 Bytes, 651056 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/barun-ger00.jpg (from www.domerama.com/general/images/yurts/)
+22:09:32	Warning: 	Retry after error -4 (Incorrect length (541715 Bytes, 798971 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/barun-ger02.jpg (from www.domerama.com/general/images/yurts/)
+22:09:33	Warning: 	Retry after error -4 (Incorrect length (548554 Bytes, 721264 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/barun-ger06.jpg (from www.domerama.com/general/images/yurts/)
+22:09:34	Warning: 	Retry after error -4 (Incorrect length (539242 Bytes, 826817 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/berseemuseum_bremen_2009_083.jpg (from www.domerama.com/general/images/yurts/)
+22:09:35	Warning: 	Retry after error -4 (Incorrect length (801567 Bytes, 1060734 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/ffa4.jpg (from www.domerama.com/general/images/yurts/)
+22:10:02	Warning: 	Retry after error -4 (Incorrect length (277899 Bytes, 576801 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/giruhcpitt.jpg (from www.domerama.com/general/images/yurts/)
+22:10:13	Warning: 	Retry after error -4 (Incorrect length (275197 Bytes, 435177 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/yourte_mongole_cropped.jpg (from www.domerama.com/general/images/yurts/)
+22:10:17	Warning: 	Retry after error -4 (Incorrect length (539121 Bytes, 648562 expected)) at link www.domerama.com/wp-content/gallery/mongolian-yurts/yurt-construction-3.jpg (from www.domerama.com/general/images/yurts/)
+22:10:21	Warning: 	Retry after error -4 (Incorrect length (273808 Bytes, 411860 expected)) at link www.domerama.com/wp-content/gallery/kyrgyz-yurts/kyrgyz_yurt.jpg (from www.domerama.com/general/images/yurts/)
+22:10:35	Warning: 	Retry after error -4 (Incorrect length (279644 Bytes, 419094 expected)) at link www.domerama.com/wp-content/gallery/kyrgyz-yurts/real_life.jpg (from www.domerama.com/general/images/yurts/)
+22:10:39	Warning: 	Retry after error -4 (Incorrect length (541796 Bytes, 641153 expected)) at link www.domerama.com/wp-content/gallery/kyrgyz-yurts/yurt_in_osh.jpg (from www.domerama.com/general/images/yurts/)
+22:10:44	Warning: 	Retry after error -4 (Incorrect length (274216 Bytes, 504966 expected)) at link www.domerama.com/wp-content/gallery/kazakh-yurts/kazakhs_people.jpg (from www.domerama.com/general/images/yurts/)
+22:10:49	Warning: 	Retry after error -4 (Incorrect length (276303 Bytes, 400677 expected)) at link www.domerama.com/wp-content/gallery/kazakh-yurts/kazakhyurt.jpg (from www.domerama.com/general/images/yurts/)
+22:10:56	Warning: 	Retry after error -4 (Incorrect length (514945 Bytes, 617783 expected)) at link www.domerama.com/wp-content/gallery/kazakh-yurts/shangrak.jpg (from www.domerama.com/general/images/yurts/)
+22:11:03	Warning: 	Retry after error -4 (Incorrect length (279535 Bytes, 578369 expected)) at link www.domerama.com/wp-content/uploads/2013/01/geodesic_dome_davis.pdf (from www.domerama.com/technical/geodesic-domes-by-tom-davis/)
+22:11:40	Warning: 	Retry after error -4 (Incorrect length (279399 Bytes, 531451 expected)) at link www.domerama.com/wp-content/uploads/2012/10/earthquake_resistant_shelters_image3.jpg (from www.domerama.com/types-of-domes/earth-buildings/earthquake-resistant-shelters/)
+22:11:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/nkFWzd4FBFE/0.jpg (from www.domerama.com/types-of-domes/earth-buildings/earth-building-videos/)
+22:11:49	Error: 	"Not Found" (404) at link i.ytimg.com/vi/dmHxyYk-YBM/0.jpg (from www.domerama.com/types-of-domes/earth-buildings/earth-building-videos/)
+22:21:20	Warning: 	Retry after error -4 (Incorrect length (280533 Bytes, 381730 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-superior-domes/ecocamp_superior_dome_6921701048_b71e178f95_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-superior-domes/)
+22:21:23	Warning: 	Retry after error -4 (Incorrect length (276742 Bytes, 458036 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-superior-domes/ecocamp_superior_dome_7215696748_a2cbc7e9f1_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-superior-domes/)
+22:21:23	Warning: 	Retry after error -4 (Incorrect length (252027 Bytes, 386915 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-green-ethos/ecocamp_green_ethos_5.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamps-green-commitment/)
+22:21:30	Warning: 	Retry after error -4 (Incorrect length (279041 Bytes, 505134 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/starling_lane_winery_greenhouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:21:36	Warning: 	Retry after error -4 (Incorrect length (275256 Bytes, 439062 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/palm_house_central_part_from_n-edge.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:21:45	Warning: 	Retry after error -4 (Incorrect length (268418 Bytes, 564237 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/modern_greenhouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:21:52	Warning: 	Retry after error -4 (Incorrect length (272698 Bytes, 466860 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/lyon_parc_tete_dor_serre.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:03	Warning: 	Retry after error -4 (Incorrect length (268786 Bytes, 416466 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/laken_greenhouse_dome.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:07	Warning: 	Retry after error -4 (Incorrect length (272825 Bytes, 560788 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/inbg_glasnevin_30.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:24	Warning: 	Retry after error -4 (Incorrect length (535140 Bytes, 741942 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/inbg_glasnevin_19.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:27	Warning: 	Retry after error -4 (Incorrect length (272747 Bytes, 464283 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/hornimanconservatory.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:33	Warning: 	Retry after error -4 (Incorrect length (271192 Bytes, 535886 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/great_glass_dome_cardiff.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:53	Warning: 	Retry after error -4 (Incorrect length (271265 Bytes, 516091 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/gewaechshaus_botanischer_garten_berlin.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:57	Warning: 	Retry after error -4 (Incorrect length (272190 Bytes, 513107 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/dublin_national_botanic_gardens.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:22:58	Warning: 	Retry after error -4 (Incorrect length (267582 Bytes, 545606 expected)) at link www.domerama.com/wp-content/gallery/greenh-architecture/belleisleconservatory.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:15	Warning: 	Retry after error -4 (Incorrect length (272540 Bytes, 412722 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/kew-gardens-palm_-house_-london-arp_.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:33	Warning: 	Retry after error -4 (Incorrect length (277875 Bytes, 466703 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_messenger_and_company_18xx.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:36	Warning: 	Retry after error -4 (Incorrect length (277833 Bytes, 445097 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_draft_-_godwin_adams_-_07.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:38	Warning: 	Retry after error -4 (Incorrect length (536321 Bytes, 637562 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_draft_-_godwin_adams_-_06.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:43	Warning: 	Retry after error -4 (Incorrect length (535002 Bytes, 737142 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_draft_-_godwin_adams_-_03.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:23:55	Warning: 	Retry after error -4 (Incorrect length (539273 Bytes, 813211 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_draft_-_godwin_adams_-_04.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:03	Warning: 	Retry after error -4 (Incorrect length (276436 Bytes, 409130 expected)) at link www.domerama.com/wp-content/gallery/greenh-history/greenhouse_draft_-_godwin_adams_-_01.png (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:03	Warning: 	Retry after error -4 (Incorrect length (544624 Bytes, 637049 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/tomatejungpflanzen.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:16	Warning: 	Retry after error -4 (Incorrect length (516492 Bytes, 649349 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/strawberry_greenhouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:19	Warning: 	Retry after error -4 (Incorrect length (279094 Bytes, 566390 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/rj_stokesley.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:25	Warning: 	Retry after error -4 (Incorrect length (273888 Bytes, 434940 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/pelargonien_mutterpflanzenbestand.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:38	Warning: 	Retry after error -4 (Incorrect length (532635 Bytes, 701747 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouses-9.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:39	Warning: 	Retry after error -4 (Incorrect length (273011 Bytes, 397884 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouse_4.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:24:52	Warning: 	Retry after error -4 (Incorrect length (274369 Bytes, 381425 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouse_5.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:00	Warning: 	Retry after error -4 (Incorrect length (274169 Bytes, 445259 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouse_11.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:05	Warning: 	Retry after error -4 (Incorrect length (533530 Bytes, 645825 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouse_1.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:05	Warning: 	Retry after error -4 (Incorrect length (272385 Bytes, 428470 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/greenhouse-4.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:09	Warning: 	Retry after error -4 (No data (connection closed)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/glasshouse_crops_3.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:24	Warning: 	Retry after error -4 (Incorrect length (287682 Bytes, 560199 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/glasshouse_crops_4.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:27	Warning: 	Retry after error -4 (Incorrect length (277942 Bytes, 423723 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/glasshouse_crops_1.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:30	Warning: 	Retry after error -4 (Incorrect length (276466 Bytes, 462426 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/gewachshaus_gartnerei.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:25:51	Warning: 	Retry after error -4 (Incorrect length (277946 Bytes, 491699 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/assimilatieverlichting.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:01	Warning: 	Retry after error -4 (Incorrect length (543481 Bytes, 673888 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/103_2934.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:08	Warning: 	Retry after error -4 (Incorrect length (537489 Bytes, 668162 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/tomato_p5260299b.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:23	Warning: 	Retry after error -4 (Incorrect length (274121 Bytes, 459003 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/university_of_life_sciences_prague.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:26	Warning: 	Retry after error -4 (Incorrect length (277539 Bytes, 477078 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/spring_greenhouses.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:29	Warning: 	Retry after error -4 (Incorrect length (281945 Bytes, 606501 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/shoreline_cc_hothouse_01.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:36	Warning: 	Retry after error -4 (Incorrect length (276196 Bytes, 397667 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/page1-776px-greenhouse-pdf.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:53	Warning: 	Retry after error -4 (Incorrect length (279075 Bytes, 397118 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/hothouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:56	Warning: 	Retry after error -4 (Incorrect length (541513 Bytes, 640285 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/jardin_des_plantes_de_paris.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:26:58	Warning: 	Retry after error -4 (Incorrect length (246741 Bytes, 401921 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/greenhouse-7.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:12	Warning: 	Retry after error -4 (Incorrect length (541612 Bytes, 712261 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/greenhouse-2.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:13	Warning: 	Retry after error -4 (Incorrect length (276803 Bytes, 602227 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/green_gulch_farm_greenhouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:21	Warning: 	Retry after error -4 (Incorrect length (542111 Bytes, 747937 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/farquharson_life_sciences_greenhouse.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:23	Warning: 	Retry after error -4 (Incorrect length (539490 Bytes, 835851 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/botanischer_garten_bs-seerosen.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:40	Warning: 	Retry after error -4 (Incorrect length (272478 Bytes, 594297 expected)) at link www.domerama.com/wp-content/gallery/greenh-general/bergianska_2.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:27:55	Warning: 	Moved Permanently for www.domerama.com/typese-of-doms/yurts/
+22:27:55	Warning: 	File has moved from www.domerama.com/typese-of-doms/yurts/ to http://www.domerama.com/types-of-domes/yurts/
+22:27:55	Error: 	"Not Found" (404) at link i.ytimg.com/vi/atdx-Fd79rI/0.jpg (from www.domerama.com/types-of-domes/event-domes-2/event-domes-videos/)
+22:27:55	Error: 	"Not Found" (404) at link i.ytimg.com/vi/mdsrmM4n3lM/0.jpg (from www.domerama.com/types-of-domes/event-domes-2/event-dome-360-projection/)
+22:27:55	Error: 	"Not Found" (404) at link i.ytimg.com/vi/A9J4vNiQbt0/0.jpg (from www.domerama.com/types-of-domes/event-domes-2/event-dome-360-projection/)
+22:27:57	Warning: 	Moved Permanently for www.domerama.com/?p=13016
+22:27:57	Warning: 	File has moved from www.domerama.com/?p=13016 to http://www.domerama.com/diy-geodesic-dome-projection-liners/
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_33.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/3v_59_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_20.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_75.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_24.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_115.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_30.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_170.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/4v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_36.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_250.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_44.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_325.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/6v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_60.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_90.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:27:57	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_120.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:42:19	Warning: 	Retry after error -4 (Incorrect length (536340 Bytes, 730223 expected)) at link www.domerama.com/wp-content/gallery/octa-tetra-museum/octa-tetra_museum_5.jpg (from www.domerama.com/fabricating/making-geodesic-models/uncle-dans-octa-tetra-museum/)
+22:42:20	Warning: 	Retry after error -4 (Incorrect length (273923 Bytes, 585459 expected)) at link www.domerama.com/wp-content/gallery/octa-tetra-museum/octa-tetra_museum_7.jpg (from www.domerama.com/fabricating/making-geodesic-models/uncle-dans-octa-tetra-museum/)
+22:42:22	Warning: 	Retry after error -4 (Incorrect length (1061522 Bytes, 1313792 expected)) at link www.domerama.com/wp-content/uploads/2013/01/Book568-Spherical-Dodecahedron.doc (from www.domerama.com/fabricating/making-geodesic-models/spherical-dodecahedron/)
+22:42:32	Warning: 	Retry after error -4 (Incorrect length (541957 Bytes, 694272 expected)) at link www.domerama.com/wp-content/uploads/2013/01/Book578-Buckyball-Sphere-Curved-Folds.doc (from www.domerama.com/fabricating/making-geodesic-models/buckyball-sphere/)
+22:42:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/frames_3v59_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:42:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/frames_4v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:42:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/frames_6v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:43:01	Warning: 	Moved Permanently for www.domerama.com/?p=8850
+22:43:01	Warning: 	File has moved from www.domerama.com/?p=8850 to http://www.domerama.com/geodesic-domes-and-immersive-gaming/
+22:43:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.domerama.com/domerama-labs-presents-geodesic-camel-secrets/ (from www.domerama.com/geodesic-domes-and-360-product-photography/)
+22:43:33	Warning: 	Moved Permanently for www.domerama.com/?p=8361
+22:43:33	Warning: 	File has moved from www.domerama.com/?p=8361 to http://www.domerama.com/geodesic-domes-and-360-product-photography/
+22:43:44	Warning: 	Moved Permanently for www.domerama.com/?p=8890
+22:43:44	Warning: 	File has moved from www.domerama.com/?p=8890 to http://www.domerama.com/geodesic-igloo-the-gigloo/
+22:44:05	Warning: 	Moved Permanently for www.domerama.com/?p=12697
+22:44:05	Warning: 	File has moved from www.domerama.com/?p=12697 to http://www.domerama.com/geodesic-event-dome-projection-or-how-to-get-ripped-off/
+22:45:01	Warning: 	Retry after error -4 (Incorrect length (271324 Bytes, 401922 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-domes/ecocamp_suite_domes_5670427218_3fbff65a3b_o.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-domes/)
+22:45:09	Warning: 	Retry after error -4 (Incorrect length (277846 Bytes, 361216 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-domes/ecocamp_suite_domes_6921660136_ab190b7779_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-domes/)
+22:45:15	Warning: 	Retry after error -4 (Incorrect length (274438 Bytes, 410301 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-domes/ecocamp_suite_domes_7067740965_15973662ea_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-domes/)
+22:45:29	Warning: 	Moved Permanently for www.domerama.com/?p=13596
+22:45:29	Warning: 	File has moved from www.domerama.com/?p=13596 to http://www.domerama.com/yona-and-mates-making-burning-man-light-up/
+22:45:29	Warning: 	Moved Permanently for www.domerama.com/?p=13639
+22:45:29	Warning: 	File has moved from www.domerama.com/?p=13639 to http://www.domerama.com/going-high-tech-for-burning-man/
+22:45:29	Warning: 	Moved Permanently for www.domerama.com/?p=13590
+22:45:29	Warning: 	File has moved from www.domerama.com/?p=13590 to http://www.domerama.com/zoom-zoom-or-zome-zome/
+22:45:29	Warning: 	Moved Permanently for www.domerama.com/?p=13537
+22:45:29	Warning: 	File has moved from www.domerama.com/?p=13537 to http://www.domerama.com/metal-and-glass-geodesic-greenhouses-section-added/
+22:45:29	Warning: 	Moved Permanently for www.domerama.com/?p=13395
+22:45:29	Warning: 	File has moved from www.domerama.com/?p=13395 to http://www.domerama.com/the-geodesic-dome-diy-handbook-part-3/
+22:45:32	Error: 	"Not Found" (404) at link www.bigelowbrook.com/tours/Banner.jpg (from www.domerama.com/page/3/)
+22:45:32	Error: 	"Not Found" (404) at link www.bigelowbrook.com/tours/RobT.jpg (from www.domerama.com/page/3/)
+22:45:32	Error: 	"Not Found" (404) at link www.bigelowbrook.com/tours/Tomatoes.jpg (from www.domerama.com/page/3/)
+22:45:32	Error: 	"Not Found" (404) at link www.bigelowbrook.com/tours/tour-de-tanks.jpg (from www.domerama.com/page/3/)
+22:45:32	Error: 	"Not Found" (404) at link www.bigelowbrook.com/tours/LogoSmall.png (from www.domerama.com/page/3/)
+22:45:45	Warning: 	Retry after error -4 (Incorrect length (274861 Bytes, 394787 expected)) at link www.domerama.com/wp-content/gallery/floret-mid-assembly/floret_mid_assembly_4.jpg (from www.domerama.com/fabricating/making-geodesic-models/floret-tessellation-sphere/)
+22:46:14	Warning: 	Moved Permanently for www.domerama.com/image-collections/expo-67/
+22:46:14	Warning: 	File has moved from www.domerama.com/image-collections/expo-67/ to http://www.domerama.com/general/images/expo-67/
+22:46:15	Warning: 	Retry after error -4 (Incorrect length (1326432 Bytes, 1395077 expected)) at link www.domerama.com/wp-content/uploads/2012/12/pse_sb_003.png (from www.domerama.com/types-of-domes/straw-bale-dome/straw-bale-structural-engineering-design/)
+22:46:16	Warning: 	Retry after error -4 (Incorrect length (279232 Bytes, 562864 expected)) at link www.domerama.com/wp-content/uploads/2012/12/pse_sb_001.png (from www.domerama.com/types-of-domes/straw-bale-dome/straw-bale-structural-engineering-design/)
+22:46:18	Warning: 	Retry after error -4 (Incorrect length (270044 Bytes, 369272 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-lofts/ecocamp_suite_loft_7221381834_b67fae82d6_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-lofts/)
+22:46:27	Warning: 	Retry after error -4 (Incorrect length (283054 Bytes, 367236 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-lofts/ecocamp_suite_loft_7221382962_671e62b5d7_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-lofts/)
+22:46:29	Warning: 	Retry after error -4 (Incorrect length (281223 Bytes, 477048 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-lofts/ecocamp_suite_loft_7221387098_0cd0e269e1_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-lofts/)
+22:46:34	Warning: 	Retry after error -4 (Incorrect length (278402 Bytes, 532215 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-suite-lofts/ecocamp_suite_loft_7221388000_20eaf0e2a3_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-suite-lofts/)
+22:46:41	Warning: 	Retry after error -4 (Incorrect length (242711 Bytes, 426448 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-standard-domes/ecocamp_standard_5670402944_5c6668457a_o.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-standard-domes/)
+22:47:01	Warning: 	Retry after error -4 (Incorrect length (249231 Bytes, 393732 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-standard-domes/ecocamp_standard_7067835657_400de1c99d_o.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-standard-domes/)
+22:47:01	Warning: 	Retry after error -4 (Incorrect length (274399 Bytes, 443809 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-standard-domes/ecocamp_standard_7067846991_30ec15f56c_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-standard-domes/)
+22:47:11	Warning: 	Retry after error -4 (Incorrect length (246677 Bytes, 369081 expected)) at link www.domerama.com/wp-content/gallery/ecocamp-standard-domes/ecocamp_standard_7170912216_edd77c9e0a_h.jpg (from www.domerama.com/types-of-domes/geodesic-hotel/ecocamp-accomodations/ecocamp-standard-domes/)
+22:47:15	Warning: 	Retry after error -4 (Incorrect length (544142 Bytes, 657894 expected)) at link www.domerama.com/wp-content/gallery/greenh-agriculture/glasshouse_crops_3.jpg (from www.domerama.com/types-of-domes/greenhouses/greenhouse-in-pictures/)
+22:47:24	Warning: 	Moved Permanently for www.domerama.com/?p=13105
+22:47:24	Warning: 	File has moved from www.domerama.com/?p=13105 to http://www.domerama.com/domerama-can-help-with-your-geodesic-event-dome/
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_33.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/3v_59_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_20.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_75.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_24.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_115.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_30.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_170.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/4v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_36.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_250.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_44.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:24	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_325.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/6v_frames_color.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_60.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_90.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:47:25	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_120.jpg (from www.domerama.com/raising-a-dome/geodesic-domes-and-assembly-times/)
+22:50:59	Error: 	"Not Found" (404) at link https://naturalspacesdomes.com/images/peake.JPG (from www.domerama.com/raising-a-dome/bear-creek-geodesic-dome-construction/bear-creek-dome-results/bear-creek-dome-radiant-floor-results/)
+22:50:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/ral_color_chart.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-options/)
+22:50:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/frames_3v59_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:50:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/frames_4v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:50:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/frames_6v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:51:01	Warning: 	Moved Permanently for www.domerama.com/?p=8794
+22:51:01	Warning: 	File has moved from www.domerama.com/?p=8794 to http://www.domerama.com/geodesic-domes-of-the-world/
+22:51:01	Warning: 	Moved Permanently for www.domerama.com/?p=8868
+22:51:01	Warning: 	File has moved from www.domerama.com/?p=8868 to http://www.domerama.com/the-geodesic-snow-job/
+22:51:07	Warning: 	Moved Permanently for www.domerama.com/?p=8398
+22:51:07	Warning: 	File has moved from www.domerama.com/?p=8398 to http://www.domerama.com/when-geodesic-domes-and-noble-intentions-meet/
+22:51:11	Warning: 	Moved Permanently for www.domerama.com/?p=8048
+22:51:11	Warning: 	File has moved from www.domerama.com/?p=8048 to http://www.domerama.com/finally-creativity-with-domes/
+22:51:11	Warning: 	Moved Permanently for www.domerama.com/?p=8876
+22:51:11	Warning: 	File has moved from www.domerama.com/?p=8876 to http://www.domerama.com/geodesic-connector-hubs-looking-for-good-domes/
+22:51:25	Warning: 	Moved Permanently for www.domerama.com/?p=8916
+22:51:25	Warning: 	File has moved from www.domerama.com/?p=8916 to http://www.domerama.com/geodesic-generation-gap/
+22:51:26	Warning: 	Moved Permanently for www.domerama.com/?p=9288
+22:51:26	Warning: 	File has moved from www.domerama.com/?p=9288 to http://www.domerama.com/ecocamp-the-worlds-first-geodesic-dome-hotel/
+22:51:32	Warning: 	Moved Permanently for www.domerama.com/?p=11351
+22:51:32	Warning: 	File has moved from www.domerama.com/?p=11351 to http://www.domerama.com/2500-free-pdf-building-plans-for-all-uses/
+22:51:36	Warning: 	Moved Permanently for www.domerama.com/?p=10137
+22:51:36	Warning: 	File has moved from www.domerama.com/?p=10137 to http://www.domerama.com/geodesic-dome-frames-some-images/
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/dome_engineering_plans_4.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/eng_seal_blue.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_25.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_14.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_24.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_56.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_45.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_32.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_30.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_90.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_36.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_125.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_100.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_75.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_44.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_190.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_150.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_110.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_245.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_200.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_140.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_480.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_385.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_640.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_280.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_cocktail.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_conference.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_dining.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_dancing.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:51:36	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/small_diameters2.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:51:36	Warning: 	Moved Permanently for www.domerama.com/?p=13362
+22:51:36	Warning: 	File has moved from www.domerama.com/?p=13362 to http://www.domerama.com/the-geodesic-dome-diy-handbook-part-2/
+22:51:36	Warning: 	Moved Permanently for www.domerama.com/?p=13348
+22:51:36	Warning: 	File has moved from www.domerama.com/?p=13348 to http://www.domerama.com/the-geodesic-dome-diy-handbook-part-1/
+22:51:36	Warning: 	Moved Permanently for www.domerama.com/?p=13269
+22:51:36	Warning: 	File has moved from www.domerama.com/?p=13269 to http://www.domerama.com/geodesic-plans-collection/
+22:51:36	Warning: 	Moved Permanently for www.domerama.com/?p=13128
+22:51:36	Warning: 	File has moved from www.domerama.com/?p=13128 to http://www.domerama.com/geodesic-dome-growing-open-house/
+22:51:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/12/ral_color_chart.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-options/)
+22:51:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/frames_3v59_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:51:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/12/frames_4v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:51:54	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/12/frames_6v_color.jpg (from www.domerama.com/domerama-geodesic-domes/domerama-godesic-frames/)
+22:51:54	Warning: 	Moved Permanently for www.domerama.com/?p=8490
+22:51:54	Warning: 	File has moved from www.domerama.com/?p=8490 to http://www.domerama.com/geodesic-dome-size-and-frequency/
+22:51:55	Warning: 	Moved Permanently for www.domerama.com/?p=8458
+22:51:55	Warning: 	File has moved from www.domerama.com/?p=8458 to http://www.domerama.com/holly-geodesic/
+22:51:59	Warning: 	Moved Permanently for www.domerama.com/?p=9720
+22:51:59	Warning: 	File has moved from www.domerama.com/?p=9720 to http://www.domerama.com/checklist-for-geodesic-event-dome-rental-and-purchase/
+22:51:59	Warning: 	Moved Permanently for www.domerama.com/?p=8354
+22:51:59	Warning: 	File has moved from www.domerama.com/?p=8354 to http://www.domerama.com/domerama-labs-presents-geodesic-camel-secrets/
+22:52:00	Warning: 	Moved Permanently for www.domerama.com/?p=8445
+22:52:00	Warning: 	File has moved from www.domerama.com/?p=8445 to http://www.domerama.com/tis-a-geodesic-christmas/
+22:52:18	Warning: 	Moved Permanently for www.domerama.com/?p=8246
+22:52:18	Warning: 	File has moved from www.domerama.com/?p=8246 to http://www.domerama.com/the-bubble-dome-story/
+22:52:19	Warning: 	Moved Permanently for www.domerama.com/?p=8057
+22:52:19	Warning: 	File has moved from www.domerama.com/?p=8057 to http://www.domerama.com/uncle-dan-making-math-interesting-and-fun/
+22:52:19	Warning: 	Moved Permanently for www.domerama.com/?p=9252
+22:52:19	Warning: 	File has moved from www.domerama.com/?p=9252 to http://www.domerama.com/geodesic-greenhouse-bookavoid-like-the-plague/
+22:52:20	Warning: 	Moved Permanently for www.domerama.com/?p=9652
+22:52:20	Warning: 	File has moved from www.domerama.com/?p=9652 to http://www.domerama.com/geodesic-new-year-2013/
+22:52:21	Warning: 	Moved Permanently for www.domerama.com/?p=10077
+22:52:21	Warning: 	File has moved from www.domerama.com/?p=10077 to http://www.domerama.com/forget-the-traditional-gazebo-build-a-hot-tub-yurt/
+22:52:28	Warning: 	Moved Permanently for www.domerama.com/?p=11181
+22:52:28	Warning: 	File has moved from www.domerama.com/?p=11181 to http://www.domerama.com/geodesic-greenhouses-to-grow-your-own-food/
+22:52:28	Warning: 	Moved Permanently for www.domerama.com/?p=11169
+22:52:28	Warning: 	File has moved from www.domerama.com/?p=11169 to http://www.domerama.com/tc-howard-genius-overshadowed-by-fuller/
+22:52:28	Warning: 	Moved Permanently for www.domerama.com/?p=10229
+22:52:28	Warning: 	File has moved from www.domerama.com/?p=10229 to http://www.domerama.com/geodesic-pool-domes-back-in-time/
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/dome_engineering_plans_4.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/eng_seal_blue.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_25.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_14.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_24.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_56.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_45.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_32.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_30.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_90.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_36.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_125.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_100.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_75.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_44.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_190.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_150.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_110.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_245.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_200.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_140.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_480.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_385.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_640.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_280.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/setup_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_cocktail.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_conference.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_dining.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/seating_dancing.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.triadomes.com/wp-content/uploads/2012/11/small_diameters2.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/12/ral_color_chart.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-options/)
+22:52:39	Warning: 	Moved Permanently for www.domerama.com/?p=8344
+22:52:39	Warning: 	File has moved from www.domerama.com/?p=8344 to http://www.domerama.com/thanks-geodesic-help-group/
+22:52:39	Warning: 	Moved Permanently for www.domerama.com/?p=8300
+22:52:39	Warning: 	File has moved from www.domerama.com/?p=8300 to http://www.domerama.com/corporate-event-domes-lots-of-hot-air-underneath/
+22:52:41	Warning: 	Moved Permanently for www.domerama.com/?p=9698
+22:52:41	Warning: 	File has moved from www.domerama.com/?p=9698 to http://www.domerama.com/geodesic-building-contractors/
+22:52:41	Warning: 	Moved Permanently for www.domerama.com/?p=9743
+22:52:41	Warning: 	File has moved from www.domerama.com/?p=9743 to http://www.domerama.com/assembly-times-for-geodesic-domes/
+22:52:50	Warning: 	Moved Permanently for www.domerama.com/?p=8291
+22:52:50	Warning: 	File has moved from www.domerama.com/?p=8291 to http://www.domerama.com/geodesic-holidays/
+22:52:53	Warning: 	Moved Permanently for www.domerama.com/?p=8225
+22:52:53	Warning: 	File has moved from www.domerama.com/?p=8225 to http://www.domerama.com/blow-me/
+22:52:53	Warning: 	Moved Permanently for www.domerama.com/?p=8253
+22:52:53	Warning: 	File has moved from www.domerama.com/?p=8253 to http://www.domerama.com/how-to-identify-a-geodesic-domes-frequency/
+22:52:54	Warning: 	Moved Permanently for www.domerama.com/?p=8089
+22:52:54	Warning: 	File has moved from www.domerama.com/?p=8089 to http://www.domerama.com/geodesic-math-2x-means-4x/
+22:52:54	Warning: 	Moved Permanently for www.domerama.com/?p=9671
+22:52:54	Warning: 	File has moved from www.domerama.com/?p=9671 to http://www.domerama.com/geodesics-and-aerodynamics-living-testing/
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=9786
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=9786 to http://www.domerama.com/geodesic-frequencies-how-are-domes-divided/
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=10257
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=10257 to http://www.domerama.com/geodesic-domes-and-yurts-wooden-pallet-floor/
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=11084
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=11084 to http://www.domerama.com/australian-geodesic-dome-used-as-a-misting-station/
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/dome_engineering_plans_4.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/eng_seal_blue.jpg (from www.domerama.com/domerama-geodesic-domes/event-domes-technical-services/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_25.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_20.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_14.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_24.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_56.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_45.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_32.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_30.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_90.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_36.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_125.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_100.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_75.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_44.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_190.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_150.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_110.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_50.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_245.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_200.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_140.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_area_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_seating_480.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_dining_385.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_standing_640.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/capacity_mixed_280.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/setup_70.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-packages/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/seating_cocktail.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/seating_conference.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/seating_dining.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/seating_dancing.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.triadomes.com/wp-content/uploads/2012/11/small_diameters2.jpg (from www.domerama.com/domerama-geodesic-domes/geodesic-event-dome-f-a-q/)
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=11031
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=11031 to http://www.domerama.com/january-is-geodesic-greenhouse-month/
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=10962
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=10962 to http://www.domerama.com/geodesic-greenhouse-glazing-needs-some-h/
+22:52:55	Warning: 	Moved Permanently for www.domerama.com/?p=10952
+22:52:55	Warning: 	File has moved from www.domerama.com/?p=10952 to http://www.domerama.com/geodesic-dome-greenhouse-kit-assembly-and-super-cute-doggie/
+22:52:56	Warning: 	Moved Permanently for www.domerama.com/?p=10929
+22:52:56	Warning: 	File has moved from www.domerama.com/?p=10929 to http://www.domerama.com/die-tempo-die/
+22:52:58	Warning: 	Moved Permanently for www.domerama.com/?p=8095
+22:52:58	Warning: 	File has moved from www.domerama.com/?p=8095 to http://www.domerama.com/godesics-bigger-means-stronger/
+22:52:58	Warning: 	Moved Permanently for www.domerama.com/?p=10761
+22:52:58	Warning: 	File has moved from www.domerama.com/?p=10761 to http://www.domerama.com/geodesic-dome-introduction-to-new-technology-advances/
+22:52:58	Warning: 	Moved Permanently for www.domerama.com/?p=8266
+22:52:58	Warning: 	File has moved from www.domerama.com/?p=8266 to http://www.domerama.com/geodesic-trends-domes-calculators-and-manufacturers/
+22:52:59	Warning: 	Moved Permanently for www.domerama.com/?p=8220
+22:52:59	Warning: 	File has moved from www.domerama.com/?p=8220 to http://www.domerama.com/geodesic-igloos-the-new-thing/
+22:53:00	Warning: 	Moved Permanently for www.domerama.com/?p=8167
+22:53:00	Warning: 	File has moved from www.domerama.com/?p=8167 to http://www.domerama.com/the-yummy-yuletide-yurt-is-here/
+22:53:00	Warning: 	Retry after error 500 (Internal Server Error) at link www.domerama.com/?p=10667 (from www.domerama.com/this-is-not-your-hippie-uncles-geodesic-greenhouse/)
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=10870
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=10870 to http://www.domerama.com/geodesic-dome-lovers-are-not-hippies/
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=10829
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=10829 to http://www.domerama.com/burning-man-2013-planning-is-on/
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=8122
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=8122 to http://www.domerama.com/publish-on-domerama/
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=8212
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=8212 to http://www.domerama.com/this-one-is-for-colorado-and-washington-states/
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=8194
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=8194 to http://www.domerama.com/sometimes-problems-arise/
+22:53:01	Warning: 	Moved Permanently for www.domerama.com/?p=10667
+22:53:01	Warning: 	File has moved from www.domerama.com/?p=10667 to http://www.domerama.com/this-is-not-your-hippie-uncles-geodesic-greenhouse/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 hours 28 minutes 3 seconds : 5958 links scanned, 5548 files written (476513376 bytes overall), 4540 files updated [397301839 bytes received at 24703 bytes/sec], 15530864 bytes transferred using HTTP compression in 227 files, ratio 26%, 1.6 requests per connection
+(92 errors, 397 warnings, 0 messages)

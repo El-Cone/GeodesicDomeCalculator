@@ -1,0 +1,1 @@
+var wpuiJQ = jQuery;

@@ -1,0 +1,906 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+
+<!-- Mirrored from www.domerama.com/calculators/trapezium/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Jul 2022 16:25:13 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link rel="pingback" href="../../xmlrpc.php" />
+
+
+
+
+
+
+<link rel='stylesheet' id='nextgen_gallery_related_images-css'  href='../../wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/nextgen_gallery_related_imagesa7a0.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sociablecss-css'  href='../../wp-content/plugins/sociable/css/sociablea7a0.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-click-info-style-css'  href='../../wp-content/plugins/wp-click-info/wp-click-infoa7a0.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-ui-css'  href='../../wp-content/plugins/wp-ui/css/wp-uia7a0.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-light-css'  href='../../wp-content/plugins/wp-ui/css/themes/wpui-lighta7a0.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpui-multiple-css'  href='../../wp-content/plugins/wp-ui/css/css6557.css?styles=wpui-light%7Cwpui-blue%7Cwpui-red%7Cwpui-green%7Cwpui-dark%7Cwpui-quark%7Cwpui-alma%7Cwpui-macish%7Cwpui-redmond%7Cwpui-sevin&amp;ver=3.6.1' type='text/css' media='all' />
+</head>
+
+<div id="main-col">
+	<div id="subnav" class="fix">
+		<div class="breadcrumb">
+	<a href='../index.html'>Calculators</a> &raquo; Trapezium Calculator		</div>
+	</div><!-- /sub nav -->
+		<div id="content">
+		<article class="post-668 page type-page status-publish hentry meta-position-corners fix" id="post-668">
+<header class="post-header fix">
+	<h1 class="posttitle">Trapezium Calculator</h1>
+</header>
+			<div class="postdata fix">
+			</div>
+		<span class='post-format-icon'>&nbsp;</span><span class='updated' title='2011-12-12T03:04:27-05:00'></span>			<div class="entry-container fix">
+				<div class="entry fix">
+					<form method="post">
+<table width="750" border="0" align="center">
+<tbody>
+<tr>
+<td valign="top" width="449">
+<div align="center">
+<h3><strong>This Trapezium calculator is multi-purpose</strong></h3>
+</div>
+</td>
+<td valign="top" width="499">
+<div align="center">
+<h3><strong>This is also a reverse Trapezium calculator</strong></h3>
+</div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="449">It will calculate any size of dome and display the lengths for each strut, total amount of material required, the weight of your geodesic dome and even the amount of material to cover your geodesic dome.</td>
+<td valign="top" width="499">Enter any value in any yellow box and it will calculate all other corresponding values. For example you can specify a 2-foot length for strut &#8220;B&#8221; and all other struts and related values will be calculated.</td>
+</tr>
+<tr>
+<td colspan="2" valign="middle" height="63">
+<div align="center"><strong><strong><a href="../index.html"><img title="Click here to see all calculators on Domerama" alt="Click here to see all calculators on Domerama" src="../../wp-content/uploads/2011/12/calculators_button.png" width="499" height="39" /></a></strong><br />
+</strong></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="719" border="0" cellpadding="3" align="center">
+<tbody>
+<tr bgcolor="#FFFFFF">
+<td align="center" valign="top" bgcolor="#FFFFFF" width="323">
+<table border="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<th colspan="3" bgcolor="#000066">
+<h2><span style="color: #ffff99;"><strong>NOTE:</strong></span></h2>
+<p><span style="color: #ffff99;">If you enter a measure in feet, your results are in feet or, in the case of floor area, square feet. Same goes for meters.</span></p>
+<p><span style="color: #ffff99;">When entering in feet, decimals are fractions of a foot or square foot (for example: 2.75 = 2&#8217;9&#8243;).</span></th>
+</tr>
+<tr>
+<th width="142"><input onclick="circle(this.form)" type="button" value="Calculate" /></th>
+<th colspan="2"><input type="reset" value="Clear Values" /></th>
+</tr>
+<tr>
+<td bgcolor="#FFFF00"></td>
+<td bgcolor="#FFFF00"></td>
+<td bgcolor="#FFFF00" width="103"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFF00" height="44">Spherical radius</td>
+<td bgcolor="#FFFF00"><input type="text" name="radius" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="radiusr" readonly="readonly" size="10" value="0" /></td>
+<td bgcolor="#FFFF00" width="103"><input onclick="circle(this.form)" type="button" value="Calculate" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFF00">Spherical diameter</td>
+<td bgcolor="#FFFF00"><input type="text" name="diameter" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="diameterr" readonly="readonly" size="10" value="0" /></td>
+<td bgcolor="#FFFF00" width="103"><input onclick="circle(this.form)" type="button" value="Calculate" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFF00">Floor area</td>
+<td bgcolor="#FFFF00"><input type="text" name="area" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="arear" readonly="readonly" size="10" value="0" /></td>
+<td bgcolor="#FFFF00"><input onclick="circle(this.form)" type="button" value="Calculate" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFF00">Perimeter</td>
+<td bgcolor="#FFFF00"><input id="peri" type="text" name="peri" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="circumference" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="circumferencer" readonly="readonly" size="10" value="0" /></td>
+<td bgcolor="#FFFF00" width="103"><input onclick="circle(this.form)" type="button" value="Calculate" /></td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="middle"></td>
+</tr>
+<tr>
+<td colspan="3" align="left" valign="top" height="36"></td>
+</tr>
+<tr>
+<td colspan="3" align="center" bgcolor="#66CCCC"><input type="text" name="ff" readonly="readonly" size="10" value="0" /> <strong>feet of pipe / lumber</strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"></td>
+<td bgcolor="#FFFFFF"></td>
+<td align="center" bgcolor="#FFFFFF" width="103"></td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#000066"><span style="color: #ffff99;"><strong>NOTE: if you are bolting conduit, regardless of dome size, add an extra 32 feet or 10 meters to total above (based on 3&#8243; or 8cm for each strut)</strong></span></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF"></td>
+<td bgcolor="#FFFFFF" width="70"></td>
+<td align="center" bgcolor="#FFFFFF" width="103"><strong>ANGLE</strong></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><strong>16 X &#8220;A&#8221;</strong></td>
+<td align="center" bgcolor="#FFFF00"><input type="text" name="struta" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="strutar" readonly="readonly" size="10" value="0" /></td>
+<td align="center" valign="middle" width="103"><strong>10.38°</strong></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><strong><strong>16 X </strong>&#8220;B&#8221;</strong></td>
+<td align="center" bgcolor="#FFFF00"><input type="text" name="strutb" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="strutbr" readonly="readonly" size="10" value="0" /></td>
+<td align="center" valign="middle" width="103"><strong>7.93°</strong></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><strong><strong>16 X </strong>&#8220;C&#8221;</strong></td>
+<td align="center" bgcolor="#FFFF00"><input type="text" name="strutc" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="strutcr" readonly="readonly" size="10" value="0" /></td>
+<td align="center" valign="middle" width="103"><strong>4.28°</strong></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFF00"><strong><strong>80 X </strong>&#8220;D&#8221;</strong></td>
+<td align="center" bgcolor="#FFFF00"><input type="text" name="strutd" size="10" value="0" onfocus="clear_field(this)" /> <input type="hidden" name="strutdr" readonly="readonly" size="10" value="0" /></td>
+<td align="center" valign="middle" width="103"><strong>11.25°</strong></td>
+</tr>
+<tr>
+<td colspan="3" align="center" bgcolor="#FFFF00" height="34"><strong>Total number of struts: 128</strong></td>
+</tr>
+<tr>
+<td colspan="2" align="right" bgcolor="#FFFFFF" height="34"><input onclick="circle(this.form)" type="button" value="Calculate" /></td>
+<td bgcolor="#FFFFFF"><input type="reset" value="Clear Values" /></td>
+</tr>
+<tr>
+<td colspan="3" align="right" bgcolor="#000066" height="34">
+<div align="center"><span style="color: #ffff99;"><strong>For conduit, you can round bend angles to the nearest degree. For timber domes, angles should be to the nearest tenth of a degree.</strong></span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td align="center" valign="top" width="378"><img class="aligncenter size-medium wp-image-13745" alt="trapezium-4-row-16-sector-E" src="../../wp-content/uploads/2011/12/trapezium-4-row-16-sector-E-300x263.jpg" width="300" height="263" /><img class="size-full wp-image-1710 aligncenter" title="trapezium_top_small" alt="" src="../../wp-content/uploads/2011/12/trapezium_top_small.jpg" width="300" height="301" /><strong></strong></p>
+<p style="text-align: center;"><strong>See assembly diagrams at bottom of this page</strong></p>
+<p><img class="aligncenter size-full wp-image-431" title="strut_extra_length_small" alt="" src="../../wp-content/uploads/2011/12/strut_extra_length_small2.jpg" width="300" height="300" align="texttop" /></p>
+<h2><strong>Struts are vertex to vertex</strong></h2>
+<p>That means end to end. But to connect them together with bolts, you need to make them longer to drill holes in them.</p>
+<p>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table width="702" border="0" align="center">
+<tbody>
+<tr>
+<td align="center" bgcolor="#FFFF00" width="100%"><a href="../../fabricating/making-the-struts/index.html"><strong>For more information on cutting, bending and flattening struts, click here</strong></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="745" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="4" align="left" valign="top">
+<h2><strong>Connecting struts</strong></h2>
+<p>Many types of connectors are available for steel and timber Trapezium. <strong><a href="../../dome-basics/geodesic-dome-hub-connectors/index.html" target="_blank">For more information, click here</a>.</strong></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="25%">
+<div align="center">
+<h3><strong>If you use hubs</strong></h3>
+</div>
+</td>
+<td align="center" width="25%"><strong>1 X 16-way connectors</strong></td>
+<td align="center" width="25%"><strong>48 X 4-way connectors</strong></td>
+<td align="center" width="25%"><strong>16 X 3-way connectors</strong></td>
+</tr>
+<tr>
+<td colspan="4" align="center" bgcolor="#FFCC00"><strong>OR</strong></td>
+</tr>
+<tr>
+<td align="left" valign="top" width="25%">
+<div align="center"><img class="aligncenter size-full wp-image-444" title="dhub" alt="" src="../../wp-content/uploads/2011/12/dhub3.jpg" width="150" height="112" /></div>
+</td>
+<td align="center" width="25%"><img class="aligncenter size-full wp-image-435" title="bolts" alt="" src="../../wp-content/uploads/2011/12/bolts2.jpg" width="75" height="75" /></td>
+<td align="center" width="25%"><img class="aligncenter size-full wp-image-436" title="nuts" alt="" src="../../wp-content/uploads/2011/12/nuts2.jpg" width="75" height="75" /></td>
+<td align="center" width="25%"><img class="aligncenter size-full wp-image-437" title="washers" alt="" src="../../wp-content/uploads/2011/12/washers2.jpg" width="75" height="75" /></td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<div align="center"><strong>If you bolt struts together</strong></div>
+</td>
+<td>
+<div align="center">65 bolts</div>
+</td>
+<td>
+<div align="center">65 nuts</div>
+</td>
+<td>
+<div align="center">130 washers</div>
+</td>
+</tr>
+<tr>
+<td colspan="4" align="center" bgcolor="#FFFF00" height="47"><a href="../../fabricating/making-the-struts/index.html" target="_blank"><strong>For more information on cutting, bending and flattening struts, click here</strong></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="750" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="3" align="center" valign="middle" height="30">
+<div align="left">
+<h2><strong>Floor Surface and Capacity</strong></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#AAFC96"><strong>Your calculated floor surface area is</strong></td>
+<td align="center" bgcolor="#AAFC96" width="24"><input id="ffb" type="text" name="ffb" readonly="readonly" size="10" value="0" /></td>
+<td align="center" bgcolor="#AAFC96" width="340">
+<div align="left"><strong>SQUARE FEET/METERS</strong></div>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" valign="middle" bgcolor="#000000"><strong><span class="style7" style="color: #ffffff;">NOTE: RESULTS IN THIS SECTION ARE BASED ON FEET.</span></strong></td>
+</tr>
+<tr>
+<td align="center" valign="top" height="30">
+<h2><strong>Trapezium floor</strong></h2>
+</td>
+<td colspan="2" align="center" valign="top" height="30">
+<h2><strong> Capacity</strong></h2>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" valign="top" height="140">
+<table width="373" border="0">
+<tbody>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142" height="51"><strong>Concrete</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="76"><strong>Cubic feet</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="141"><strong> Cubic yards</strong></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142"><strong>4&#8243; slab</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="76"><input type="text" name="slabfour" readonly="readonly" size="10" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="141"><input type="text" name="cyslabfour" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142"><strong>6&#8243; slab</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="76"><input type="text" name="slabsix" readonly="readonly" size="10" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="141"><input type="text" name="cyslabsix" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142"><strong>8&#8243; slab</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="76"><input type="text" name="slabeight" readonly="readonly" size="10" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="141"><input type="text" name="cyslabeight" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142"></td>
+<td colspan="2" align="left" bgcolor="#FFFFCC"></td>
+</tr>
+<tr>
+<td align="left" bgcolor="#FFFFCC" width="142"><strong>Plywood 1/2&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="76"><input type="text" name="plywood" readonly="readonly" size="10" value="0" /></td>
+<td align="left" bgcolor="#FFFFCC" width="141"><strong>4&#8242; X 8&#8242; sheets</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td colspan="2" align="center" valign="top" height="91">
+<table width="368" border="0" align="center">
+<tbody>
+<tr>
+<td bgcolor="#EAEAFF" width="266"><strong>Estimated standing capacity</strong></td>
+<td align="center" bgcolor="#EAEAFF" width="92"><input type="text" name="seatstand" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#EAEAFF" width="266"><strong>Estimated dining capacity</strong></td>
+<td align="center" bgcolor="#EAEAFF" width="92"><input type="text" name="seatdine" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#EAEAFF" width="266"><strong>Estimated conference capacity</strong></td>
+<td align="center" bgcolor="#EAEAFF" width="92"><input type="text" name="seatconf" readonly="readonly" size="10" value="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle" bgcolor="#FFFF00" height="34"><a href="../seating-capacity/index.html" target="_blank"><strong>For more info on capacity, click here</strong></a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="750" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="7" height="76">
+<h2><strong>How much will your Trapezium weigh?</strong></h2>
+</td>
+</tr>
+<tr>
+<td colspan="3" bgcolor="#AAFC96"><strong>Your calculated Trapezium diameter is</strong></td>
+<td bgcolor="#AAFC96"></td>
+<td colspan="3" bgcolor="#AAFC96"><input type="text" name="diamweight" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td colspan="7" bgcolor="#000000">
+<p style="text-align: center;" align="center"><strong><span class="style7" style="color: #ffffff;">NOTE: RESULTS IN THIS SECTION ARE BASED ON FEET.</span></strong></p>
+</td>
+</tr>
+<tr>
+<td bgcolor="#BAE8FE" width="157"></td>
+<td align="center" bgcolor="#BAE8FE" width="61"><strong>1/2&#8243;</strong></td>
+<td align="center" bgcolor="#BAE8FE" width="64"><strong>3/4&#8243;</strong></td>
+<td align="center" bgcolor="#BAE8FE" width="65"><strong>1&#8243;</strong></td>
+<td align="center" bgcolor="#BAE8FE" width="65"><strong>1 1/4&#8243;</strong></td>
+<td align="center" bgcolor="#BAE8FE" width="65"><strong>1 1/2&#8243;</strong></td>
+<td align="center" bgcolor="#BAE8FE" width="67"><strong>2&#8243;</strong></td>
+</tr>
+<tr>
+<td colspan="7" bgcolor="#FFFFCC"><strong>EMT</strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="157"><strong>Wall thickness</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.042&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.049&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.057&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.065&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.065&#8243;</strong></td>
+<td align="center" bgcolor="#FFFFCC"><strong>0.065&#8243;</strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="157"><strong>Lbs.</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="61"><input type="text" name="aemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="64"><input type="text" name="bemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="cemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="demtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="eemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="67"><input type="text" name="femtsteel" readonly="readonly" size="8" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="157"><strong>kgs.</strong></td>
+<td align="center" bgcolor="#FFFFCC" width="61"><input type="text" name="maemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="64"><input type="text" name="mbemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="mcemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="mdemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="65"><input type="text" name="meemtsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#FFFFCC" width="67"><input type="text" name="mfemtsteel" readonly="readonly" size="8" value="0" /></td>
+</tr>
+<tr>
+<td colspan="7" bgcolor="#D9DEFF"><strong>STEEL SCHEDULE 40</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="157"><strong>Wall thickness</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.109&#8243;</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.113&#8243;</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.133&#8243;</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.140&#8243;</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.140&#8243;</strong></td>
+<td align="center" bgcolor="#D9DEFF"><strong>0.154&#8243;</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="157"><strong>Lbs.</strong></td>
+<td align="center" bgcolor="#D9DEFF" width="61"><input type="text" name="asteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="64"><input type="text" name="bsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="csteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="dsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="esteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="67"><input type="text" name="fsteel" readonly="readonly" size="8" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="157"><strong>kgs.</strong></td>
+<td align="center" bgcolor="#D9DEFF" width="61"><input type="text" name="masteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="64"><input type="text" name="mbsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="mcsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="mdsteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="65"><input type="text" name="mesteel" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D9DEFF" width="67"><input type="text" name="mfsteel" readonly="readonly" size="8" value="0" /></td>
+</tr>
+<tr>
+<td colspan="7" bgcolor="#D5FFD2"><strong>ALUMINUM SCHEDULE 40</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="157"><strong>Wall thickness</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.109&#8243;</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.113&#8243;</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.133&#8243;</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.140&#8243;</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.140&#8243;</strong></td>
+<td align="center" bgcolor="#D5FFD2"><strong>0.154&#8243;</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="157"><strong>Lbs.</strong></td>
+<td align="center" bgcolor="#D5FFD2" width="61"><input type="text" name="aaluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="64"><input type="text" name="baluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="caluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="daluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="ealuminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="67"><input type="text" name="faluminum" readonly="readonly" size="8" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="157"><strong>kgs.</strong></td>
+<td align="center" bgcolor="#D5FFD2" width="61"><input type="text" name="maaluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="64"><input type="text" name="mbaluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="mcaluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="mdaluminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="65"><input type="text" name="mealuminum" readonly="readonly" size="8" value="0" /></td>
+<td align="center" bgcolor="#D5FFD2" width="67"><input type="text" name="mfaluminum" readonly="readonly" size="8" value="0" /></td>
+</tr>
+</tbody>
+</table>
+<table width="750" align="center">
+<tbody>
+<tr>
+<td bgcolor="#F8EC03" width="173"><strong>LUMBER</strong></td>
+<td bgcolor="#F8EC03" width="127">
+<div align="center"><strong>2&#8243; X 4&#8243;</strong></div>
+</td>
+<td bgcolor="#F8EC03" width="135">
+<div align="center"><strong>2&#8243; X 6&#8243;</strong></div>
+</td>
+<td bgcolor="#F8EC03" width="200">
+<div align="center"><strong>2&#8243; X 8&#8243;</strong></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#F8EC03"><strong>Lbs.</strong></td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="wooda" readonly="readonly" size="8" value="0" /></div>
+</td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="woodb" readonly="readonly" size="8" value="0" /></div>
+</td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="woodc" readonly="readonly" size="8" value="0" /></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#F8EC03"><strong>Kgs.</strong></td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="mwooda" readonly="readonly" size="8" value="0" /></div>
+</td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="mwoodb" readonly="readonly" size="8" value="0" /></div>
+</td>
+<td bgcolor="#F8EC03">
+<div align="center"><input type="text" name="mwoodc" readonly="readonly" size="8" value="0" /></div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table width="750" border="0" cellpadding="6" align="center">
+<tbody>
+<tr>
+<td colspan="3" valign="top" height="89">
+<h2><strong>How much will your Trapezium cost?</strong></h2>
+<p>The tables show sample costs. Material prices vary with suppliers and area.</td>
+</tr>
+<tr>
+<td bgcolor="#AAFC96">
+<div align="center"><strong>Your calculated Trapezium requires </strong></div>
+</td>
+<td bgcolor="#AAFC96" width="14%"><input type="text" name="ffd" readonly="readonly" size="10" value="0" /></td>
+<td bgcolor="#AAFC96" width="37%"><strong>feet (or meters) of pipe / lumber</strong></td>
+</tr>
+<tr>
+<td colspan="3" valign="top" bgcolor="#000000">
+<div align="center"><span style="color: #ffffff;"><strong><span class="style7">NOTE: THIS SECTION ONLY ESTIMATES COST IN FEET.</span></strong></span></div>
+</td>
+</tr>
+<tr>
+<td valign="top" width="49%">
+<table width="350" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="2" bgcolor="#D9DEFF"><strong>Galvanized pipe &#8211; Steel Schedule 40</strong></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#D9DEFF">Y<strong>our estimated pipe dollar cost is:</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230">1/2&#8243; @ $13 /10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costasteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230" height="25">3/4 @ $17/10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costbsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230">1&#8243; @ $25 /10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costcsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230">1 1/4&#8243; @ $34 /10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costdsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230">1 1/2&#8243; @ $42 /10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costesteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D9DEFF" width="230">2&#8243; @ $55 /10&#8242; length</td>
+<td align="center" bgcolor="#D9DEFF" width="110"><strong></strong><br />
+<input type="text" name="costfsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td colspan="2" valign="top">
+<table width="350" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="2" bgcolor="#D5FFD2"><strong>Structure pipe &#8211; Aluminum Schedule 40</strong></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#D5FFD2">Y<strong>our estimated pipe dollar cost is:</strong></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">1/2&#8243; @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costaaluminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">3/4 @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costbaluminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">1&#8243; @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costcaluminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">1 1/4&#8243; @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costdaluminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">1 1/2&#8243; @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costealuminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#D5FFD2" width="209">2&#8243; @ $ /10&#8242; length</td>
+<td align="center" bgcolor="#D5FFD2" width="130"><strong></strong><br />
+<input type="text" name="costfaluminum" readonly="readonly" size="10" value="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" width="49%" height="256">
+<table width="350" border="0" align="center">
+<tbody>
+<tr>
+<td colspan="2" bgcolor="#FFFFCC"><strong>Structure pipe &#8211; EMT</strong></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#FFFFCC">Y<strong>our estimated pipe dollar cost is:</strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">1/2&#8243; @ $5.50 /10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costaemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">3/4 @ $ 8.80 /10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costbemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">1&#8243; @ $18 /10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costcemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">1 1/4&#8243; @ $19 /10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costdemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">1 1/2&#8243; @ $22 /10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costeemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC" width="232">2&#8243; @ $3 2/10&#8242; length</td>
+<td align="center" bgcolor="#FFFFCC" width="124"><strong></strong><br />
+<input type="text" name="costfemtsteel" readonly="readonly" size="10" value="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td rowspan="2" colspan="2" valign="top">
+<table width="350" border="0" align="center">
+<tbody>
+<tr>
+<td bgcolor="#E8E8E8" width="233"><strong>Cover: approx. s.f.</strong></td>
+<td align="center" bgcolor="#E8E8E8" width="107"><input type="text" name="surfarea" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#E8E8E8"></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#E8E8E8" width="233"></td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong>$ COST</strong></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Canvas 20 oz. ($1/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costcanvasa" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Canvas 42 oz ($1.50/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costcanvasb" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Poly 3 mil ($0.05/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costpo1ya" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Poly 6 mil ($0.06/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costpo1yb" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Marine Shrink Wrap 7 mil. ($0.08/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costmshrinkwrap" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Industrial fire-retardant Shrink Wrap 12 mil ($0.23/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costishrinkwrap" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Aluminet 70% shade cloth ($0.35/s.f.)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costaluminet" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Tyvek (housewrap) ($0.41/s.f.)<br />
+<input type="hidden" name="costcottona" readonly="readonly" size="10" value="0" /></td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong><br />
+<input type="text" name="costtyvek" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233">Plywood 1/2&#8243; ($25/ 4&#8242; X 8&#8242;)</td>
+<td align="center" bgcolor="#E8E8E8" width="107"><strong></strong> <input id="costplycover" type="text" name="costplycover" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#E8E8E8" width="233"></td>
+<td bgcolor="#E8E8E8" width="107"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="top" width="49%" height="221">
+<table border="0">
+<tbody>
+<tr>
+<td colspan="2" bgcolor="#FFEBCC"><strong>Wood struts</strong></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#FFEBCC">Y<strong>our estimated wood dollar cost is:</strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFEBCC" width="240" height="31">2&#8243;X4&#8243; @ $0.35 foot (avg.)</td>
+<td align="center" bgcolor="#FFEBCC" width="110"><strong></strong><br />
+<input type="text" name="costwstruta" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFEBCC" width="240">2&#8243;X6&#8243; @ $0.50 foot (avg.)</td>
+<td align="center" bgcolor="#FFEBCC" width="110"><strong></strong><br />
+<input type="text" name="costwstrutb" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFEBCC" width="240">2&#8243;X8&#8243; @ $0.70 foot (avg.)</td>
+<td align="center" bgcolor="#FFEBCC" width="110"><strong></strong><br />
+<input type="text" name="costwstrutc" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#FFEBCC"><strong>Flooring: </strong></td>
+</tr>
+<tr>
+<td bgcolor="#FFEBCC">Plywood 1/2&#8243; ($25/ 4&#8242; X 8&#8242;)</td>
+<td align="center" bgcolor="#FFEBCC"><strong></strong><br />
+<input type="text" name="costplywood" readonly="readonly" size="10" value="0" /></td>
+</tr>
+<tr>
+<td bgcolor="#FFEBCC">OSB 1/2&#8243; ($9/ 4&#8242; X 8&#8242;)</td>
+<td align="center" bgcolor="#FFEBCC"><strong></strong><br />
+<input type="text" name="costosb" readonly="readonly" size="10" value="0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-4302" title="trapezium_assembly2" alt="" src="../../wp-content/uploads/2011/12/trapezium_assembly2.jpg" width="736" height="330" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</form>
+<form method="post">
+<div align="center">
+<p><img class="aligncenter size-full wp-image-1509" title="trapezium_panels_2" alt="" src="../../wp-content/uploads/2011/12/trapezium_panels_21.jpg" width="653" height="261" /></p>
+</div>
+</form>
+<!-- Start Sociable --><div class="sociable"><div class="sociable_tagline">Be Sociable, Share!</div><ul class='clearfix'><li><a title="Twitter" class="option1_16" style="background-position:-144px -16px" rel="nofollow" target="_blank" href="http://twitter.com/intent/tweet?text=Trapezium%20Calculator%20-%20http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F%20"></a></li><li><a title="Facebook" class="option1_16" style="background-position:-48px 0px" rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;t=Trapezium%20Calculator"></a></li><li><a title="email" class="option1_16" style="background-position:-80px 0px" rel="nofollow" target="_blank" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=Trapezium%20Calculator&amp;body=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;ui=2&amp;tf=1&amp;shva=1"></a></li><li><a class="option1_16" style="cursor:pointer;background-position:-64px 0px" rel="nofollow" title="Add to favorites - doesn't work in Chrome"  onClick="javascript:AddToFavorites();"></a></li><li><a title="StumbleUpon" class="option1_16" style="background-position:-112px -16px" rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator"></a></li><li><a title="Delicious" class="option1_16" style="background-position:-16px 0px" rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;notes=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li><a title="Google Reader" class="option1_16" style="background-position:-112px 0px" rel="nofollow" target="_blank" href="http://www.google.com/reader/link?url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;srcURL=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;srcTitle=Domerama+"></a></li><li><a title="BlinkList" class="option1_16" style="background-position:0px 0px" rel="nofollow" target="_blank" href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;Title=Trapezium%20Calculator"></a></li><li><a title="Digg" class="option1_16" style="background-position:-32px 0px" rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;bodytext=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li><a title="Google Bookmarks" class="option1_16" style="background-position:-96px 0px" rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;annotation=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li><a style="cursor:pointer" rel="nofollow" onMouseOut="fixOnMouseOut(document.getElementById('sociable-post-668'), event, 'post-668')" onMouseOver="more(this,'post-668')"><img style='padding-top: 0;margin-top:-2px' src='../../wp-content/plugins/sociable/images/more.png'></a></li></ul><div onMouseout="fixOnMouseOut(this,event,'post-668')" id="sociable-post-668" style="display:none;">   
+
+    <div style="top: auto; left: auto; display: block;" id="sociable">
+
+
+
+		<div class="popup">
+
+			<div class="content">
+
+				<ul><li style="heigth:16px;width:16px"><a title="Myspace" class="option1_16" style="background-position:0px -16px" rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;t=Trapezium%20Calculator"></a></li><li style="heigth:16px;width:16px"><a title="LinkedIn" class="option1_16" style="background-position:-144px 0px" rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;source=Domerama+&amp;summary=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li style="heigth:16px;width:16px"><a title="Reddit" class="option1_16" style="background-position:-64px -16px" rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator"></a></li><li style="heigth:16px;width:16px"><a title="HackerNews" class="option1_16" style="background-position:-128px 0px" rel="nofollow" target="_blank" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;t=Trapezium%20Calculator"></a></li><li style="heigth:16px;width:16px"><a title="MSNReporter" class="option1_16" style="background-position:-176px 0px" rel="nofollow" target="_blank" href="http://reporter.es.msn.com/?fn=contribute&amp;Title=Trapezium%20Calculator&amp;URL=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li style="heigth:16px;width:16px"><a title="Sphinn" class="option1_16" style="background-position:-96px -16px" rel="nofollow" target="_blank" href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F"></a></li><li style="heigth:16px;width:16px"><a title="Posterous" class="option1_16" style="background-position:-32px -16px" rel="nofollow" target="_blank" href="http://posterous.com/share?linkto=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;title=Trapezium%20Calculator&amp;selection=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li><li style="heigth:16px;width:16px"><a title="Tumblr" class="option1_16" style="background-position:-128px -16px" rel="nofollow" target="_blank" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.domerama.com%2Fcalculators%2Ftrapezium%2F&amp;t=Trapezium%20Calculator&amp;s=%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0AThis%20Trapezium%20calculator%20is%20multi-purpose%0D%0A%0D%0A%0D%0A%0D%0AThis%20is%20also%20a%20reverse%20Trapezium%20calculator%0D%0A%0D%0A%0D%0A%0D%0AIt%20will%20calculate%20any%20size%20of%20dome%20and%20display%20the%20lengths%20for%20each%20strut%2C%20total%20amount%20of%20material%20required%2C%20the%20weight%20of%20your%20geodesic"></a></li></ul>			
+
+			</div>        
+
+		  <a style="cursor:pointer" onclick="hide_sociable('post-668',true)" class="close">
+
+		  <img onclick="hide_sociable('post-668',true)" title="close" src="../../wp-content/plugins/sociable/images/closelabel.png">
+
+		  </a>
+
+		</div>
+
+	</div> 
+
+  </div></div><div class='sociable' style='float:none'><ul class='clearfix'><li id="Google_p"><g:plusone annotation="bubble" href="index.html" size="medium"></g:plusone></li><li id="StumbleUpon_Counter"><script src="http://www.stumbleupon.com/hostedbadge.php?s=2&amp;r=http://www.domerama.com/calculators/trapezium/"></script></li></ul></div><!-- End Sociable -->				</div><!--/entry -->
+						</div><!-- .entry-container -->
+<footer class="post-footer postdata fix">
+</footer><!-- .post-footer -->
+<section id="comments">
+</section>   <!-- #comments -->
+		</article><!--/post -->
+
+	</div>
+</div>
+<div id='sidebar-shell-1' class='sidebar-shell sidebar-shell-left'>
+<div class="dbx-group left boxed warea" id="sidebar">
+<!--widget start --><aside id="search-2" class="dbx-box suf-widget search"><div class="dbx-content"><h3 class="dbx-handle plain">SEARCH DOMERAMA</h3>
+<form method="get" class="searchform " action="http://www.domerama.com/">
+	<input type="text" name="s" class="searchfield"
+			value="Search"
+			onfocus="if (this.value == 'Search') {this.value = '';}"
+			onblur="if (this.value == '') {this.value = 'Search';}"
+			/>
+	<input type="submit" class="searchsubmit" value="" name="searchsubmit" />
+</form>
+</div></aside><!--widget end --><!--widget start --><aside id="text-25" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><a href="../../geodesic-dome-plans/index.html"><img src="../../wp-content/uploads/2013/08/side_plan_collection_1.jpg"></a></div>
+		</div></aside><!--widget end --><!--widget start --><aside id="text-27" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2231140631270619";
+/* sidescraper */
+google_ad_slot = "4832389217";
+google_ad_width = 300;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script></div>
+		</div></aside><!--widget end --><!--widget start --><aside id="text-24" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2231140631270619";
+/* sidebar1-300 */
+google_ad_slot = "8537245210";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script></div>
+		</div></aside><!--widget end --><!--widget start --><aside id="text-18" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><a href="https://www.pacificdomes.com/home/clearance-items" target="blank">
+<img src="../../wp-content/uploads/2012/11/loogixpd1.gif" height="225" width="300"></a></div>
+		</div></aside><!--widget end --><!--widget start --><aside id="polls-widget-2" class="dbx-box suf-widget widget_polls-widget"><div class="dbx-content"><h3 class="dbx-handle plain">Polls</h3><div id="polls-2" class="wp-polls">
+	<form id="polls_form_2" class="wp-polls-form" action="http://www.domerama.com/calculators/trapezium/" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_2_nonce" name="wp-polls-nonce" value="da1b5afeba" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="2" /></p>
+		<p style="text-align: center;"><strong>Are you building a dome this year?</strong></p><div id="polls-2-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-6" name="poll_2" value="6" /> <label for="poll-answer-6">No, I'm not a hippie</label></li>
+		<li><input type="radio" id="poll-answer-7" name="poll_2" value="7" /> <label for="poll-answer-7">Yes, a dome home</label></li>
+		<li><input type="radio" id="poll-answer-8" name="poll_2" value="8" /> <label for="poll-answer-8">Yes, a greenhouse</label></li>
+		<li><input type="radio" id="poll-answer-9" name="poll_2" value="9" /> <label for="poll-answer-9">Yes, for an event</label></li>
+		<li><input type="radio" id="poll-answer-10" name="poll_2" value="10" /> <label for="poll-answer-10">Yes, for Burning Man!</label></li>
+		<li><input type="radio" id="poll-answer-11" name="poll_2" value="11" /> <label for="poll-answer-11">Yes, for the kids</label></li>
+		<li><input type="radio" id="poll-answer-12" name="poll_2" value="12" /> <label for="poll-answer-12">Yes, just for fun</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(2);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(2); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-2-loading" class="wp-polls-loading"><img src="../../wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+<ul><li><a href="#">Polls Archive</a></li></ul></div></aside><!--widget end --><!--widget start --><aside id="text-23" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><a href="http://www.facebook.com/media/set/?set=a.250289648371242.60107.250284981705042&amp;type=3" target="blank"><img src="../../wp-content/uploads/2013/03/octa_museum.jpg"  rel="me nofollow"></a></div>
+		</div></aside><!--widget end --><!--widget start --><aside id="text-31" class="dbx-box suf-widget widget_text"><div class="dbx-content">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2231140631270619";
+/* sidebar_two */
+google_ad_slot = "7779277215";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script></div>
+		</div></aside><!--widget end --></div><!--/sidebar -->
+</div>
+	</div><!-- /container -->
+
+	<!-- horizontal-outer-widgets-2 Widget Area -->
+	<div id="horizontal-outer-widgets-2" class="flattened warea fix">
+		<!-- widget start --><aside id="text-29" class="suf-flat-widget suf-horizontal-widget suf-widget-1c widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2231140631270619";
+/* top1_right */
+google_ad_slot = "7804418730";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script></div>
+		</aside><!-- widget end --><!-- widget start --><aside id="text-17" class="suf-flat-widget suf-horizontal-widget suf-widget-1c widget_text">			<div class="textwidget">We specifically disclaim any warranty, either expressed or implied, concerning the information on these pages. No one associated with this site will have liability for loss, damage, or injury, resulting from the use of any information found on this or any other page at this site.
+</div>
+		</aside><!-- widget end -->	</div>
+	<!-- /horizontal-outer-widgets-2 -->
+		<footer>
+	<div id="cred">
+		<table>
+			<tr>
+				<td class="cred-left">&#169; 2012 <a href='../../index.html'>Domerama</a></td>
+				<td class="cred-center"></td>
+				<td class="cred-right"><a href="http://aquoid.com/news/themes/suffusion/">Suffusion theme by Sayontan Sinha</a></td>
+			</tr>
+		</table>
+	</div>
+</footer>
+<!-- 53 queries, 10MB in 0.762 seconds. -->
+</div><!--/wrapper -->
+<!-- location footer -->
+<!-- begin visitor maps  -->
+<script type="text/javascript">
+//<![CDATA[
+function wo_map_console(url) {
+  window.open(url,"wo_map_console","height=650,width=800,toolbar=no,statusbar=no,scrollbars=yes").focus();
+}
+//]]>
+</script>
+<!-- end visitor maps -->
+<script type="text/javascript" id="slb_context">/* <![CDATA[ */(function($){$(document).ready(function(){if ( (typeof SLB != 'undefined') ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);/* ]]> */</script>
+
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery3e5a.js?ver=1.10.2'></script>
+<script type='text/javascript' src='../../wp-includes/js/jquery/jquery-migrate.min1576.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"http:\/\/www.domerama.com\/photocrati_ajax","wp_site_url":"http:\/\/www.domerama.com","wp_site_static_url":"http:\/\/www.domerama.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajaxa7a0.js?ver=3.6.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/sociable/js/sociablea7a0.js?ver=3.6.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/sociable/js/vuiblea7a0.js?ver=3.6.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/sociable/js/addtofavoritesa7a0.js?ver=3.6.1'></script>
+<script type='text/javascript' src='../../wp-content/plugins/wp-click-info/wp-click-info.js5152.html?ver=1.0'></script>
+</body>
+
+<!-- Mirrored from www.domerama.com/calculators/trapezium/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 11 Jul 2022 16:25:13 GMT -->
+</html>

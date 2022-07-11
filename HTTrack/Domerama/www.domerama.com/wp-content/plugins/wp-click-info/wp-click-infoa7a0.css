@@ -1,0 +1,17 @@
+.saq-external-link-ico{
+	padding-right:16px;
+	background:url(ext.gif) no-repeat right;
+}
+.saq-external-link-message{
+	position:absolute; 
+	top:0; 
+	z-index:999999; 
+	font-size:20px;
+	font-weight:bold;
+	background-color:#3D3D3D;
+	color:#3366FF;
+	display:none;
+	text-align:center;
+	width:100%;
+	padding:11px;
+}
